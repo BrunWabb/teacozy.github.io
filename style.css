@@ -61,10 +61,10 @@
     color: white;
     padding: 50px;
     text-align: center;
-    height: 700px; /* Adjust as needed */
+    height: 700px; 
     opacity: 0.9;
-    padding-left: 20px; /* Add padding to the left */
-    padding-right: 20px; /* Add padding to the right */
+    padding-left: 20px; 
+    padding-right: 20px; 
   }
 
   #mission-text {
